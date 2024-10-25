@@ -1,0 +1,15 @@
+p {
+    background-color: pink; font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.N3 {
+    font-size: 24px;
+}
+
+#N2 {
+    color: blue; background-color: transparent; font-size: 36px;
+}
+
+#N4 {
+    background-color: lightgreen; font-size: 24px; font-weight: bold;
+}
